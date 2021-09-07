@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CNCProjectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ChucVu">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC2">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC3">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC5">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC6">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC7">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EventManagerCNC8">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHienTrangMayCNC" Type="int" Nullable="false" />
+    <Property Name="IdHienTrangCuaMayCNC" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <EntityType Name="HienTrangCuaMayCNC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="HienTrangMayCNC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="100" />
+    <Property Name="IdCaLamViec" Type="int" Nullable="false" />
+    <Property Name="IdChucVu" Type="int" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="OnlineStatus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+    <Property Name="IdCaLamViec" Type="int" Nullable="false" />
+    <Property Name="IdChucVu" Type="int" Nullable="false" />
+    <Property Name="StatusOnl" Type="int" Nullable="false" />
+    <Property Name="ThoiDiem" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__EventMana__IdHie__3B75D760">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC1" Type="Self.EventManagerCNC1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC1">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__3C69FB99">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC1" Type="Self.EventManagerCNC1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC1">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__3D5E1FD2">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC2" Type="Self.EventManagerCNC2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC2">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__3E52440B">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC2" Type="Self.EventManagerCNC2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC2">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__3F466844">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC3" Type="Self.EventManagerCNC3" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC3">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__403A8C7D">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC3" Type="Self.EventManagerCNC3" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC3">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__412EB0B6">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC4" Type="Self.EventManagerCNC4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC4">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__4222D4EF">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC4" Type="Self.EventManagerCNC4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC4">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__4316F928">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC5" Type="Self.EventManagerCNC5" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC5">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__440B1D61">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC5" Type="Self.EventManagerCNC5" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC5">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__44FF419A">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC6" Type="Self.EventManagerCNC6" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC6">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__45F365D3">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC6" Type="Self.EventManagerCNC6" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC6">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__46E78A0C">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC7" Type="Self.EventManagerCNC7" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC7">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__47DBAE45">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC7" Type="Self.EventManagerCNC7" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC7">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__48CFD27E">
+    <End Role="HienTrangCuaMayCNC" Type="Self.HienTrangCuaMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC8" Type="Self.EventManagerCNC8" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangCuaMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC8">
+        <PropertyRef Name="IdHienTrangCuaMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EventMana__IdHie__49C3F6B7">
+    <End Role="HienTrangMayCNC" Type="Self.HienTrangMayCNC" Multiplicity="1" />
+    <End Role="EventManagerCNC8" Type="Self.EventManagerCNC8" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HienTrangMayCNC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventManagerCNC8">
+        <PropertyRef Name="IdHienTrangMayCNC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhanVien__IdChuc__4AB81AF0">
+    <End Role="ChucVu" Type="Self.ChucVu" Multiplicity="1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ChucVu">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="IdChucVu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OnlineSta__IdChu__4BAC3F29">
+    <End Role="ChucVu" Type="Self.ChucVu" Multiplicity="1" />
+    <End Role="OnlineStatus" Type="Self.OnlineStatus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ChucVu">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OnlineStatus">
+        <PropertyRef Name="IdChucVu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OnlineSta__IdChu__4CA06362">
+    <End Role="ChucVu" Type="Self.ChucVu" Multiplicity="1" />
+    <End Role="OnlineStatus" Type="Self.OnlineStatus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ChucVu">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OnlineStatus">
+        <PropertyRef Name="IdChucVu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CNCProjectModelStoreContainer">
+    <EntitySet Name="ChucVu" EntityType="Self.ChucVu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC1" EntityType="Self.EventManagerCNC1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC2" EntityType="Self.EventManagerCNC2" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC3" EntityType="Self.EventManagerCNC3" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC4" EntityType="Self.EventManagerCNC4" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC5" EntityType="Self.EventManagerCNC5" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC6" EntityType="Self.EventManagerCNC6" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC7" EntityType="Self.EventManagerCNC7" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventManagerCNC8" EntityType="Self.EventManagerCNC8" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HienTrangCuaMayCNC" EntityType="Self.HienTrangCuaMayCNC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HienTrangMayCNC" EntityType="Self.HienTrangMayCNC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OnlineStatus" EntityType="Self.OnlineStatus" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__EventMana__IdHie__3B75D760" Association="Self.FK__EventMana__IdHie__3B75D760">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC1" EntitySet="EventManagerCNC1" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__3C69FB99" Association="Self.FK__EventMana__IdHie__3C69FB99">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC1" EntitySet="EventManagerCNC1" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__3D5E1FD2" Association="Self.FK__EventMana__IdHie__3D5E1FD2">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC2" EntitySet="EventManagerCNC2" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__3E52440B" Association="Self.FK__EventMana__IdHie__3E52440B">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC2" EntitySet="EventManagerCNC2" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__3F466844" Association="Self.FK__EventMana__IdHie__3F466844">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC3" EntitySet="EventManagerCNC3" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__403A8C7D" Association="Self.FK__EventMana__IdHie__403A8C7D">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC3" EntitySet="EventManagerCNC3" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__412EB0B6" Association="Self.FK__EventMana__IdHie__412EB0B6">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC4" EntitySet="EventManagerCNC4" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__4222D4EF" Association="Self.FK__EventMana__IdHie__4222D4EF">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC4" EntitySet="EventManagerCNC4" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__4316F928" Association="Self.FK__EventMana__IdHie__4316F928">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC5" EntitySet="EventManagerCNC5" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__440B1D61" Association="Self.FK__EventMana__IdHie__440B1D61">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC5" EntitySet="EventManagerCNC5" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__44FF419A" Association="Self.FK__EventMana__IdHie__44FF419A">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC6" EntitySet="EventManagerCNC6" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__45F365D3" Association="Self.FK__EventMana__IdHie__45F365D3">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC6" EntitySet="EventManagerCNC6" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__46E78A0C" Association="Self.FK__EventMana__IdHie__46E78A0C">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC7" EntitySet="EventManagerCNC7" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__47DBAE45" Association="Self.FK__EventMana__IdHie__47DBAE45">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC7" EntitySet="EventManagerCNC7" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__48CFD27E" Association="Self.FK__EventMana__IdHie__48CFD27E">
+      <End Role="HienTrangCuaMayCNC" EntitySet="HienTrangCuaMayCNC" />
+      <End Role="EventManagerCNC8" EntitySet="EventManagerCNC8" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EventMana__IdHie__49C3F6B7" Association="Self.FK__EventMana__IdHie__49C3F6B7">
+      <End Role="HienTrangMayCNC" EntitySet="HienTrangMayCNC" />
+      <End Role="EventManagerCNC8" EntitySet="EventManagerCNC8" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhanVien__IdChuc__4AB81AF0" Association="Self.FK__NhanVien__IdChuc__4AB81AF0">
+      <End Role="ChucVu" EntitySet="ChucVu" />
+      <End Role="NhanVien" EntitySet="NhanVien" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OnlineSta__IdChu__4BAC3F29" Association="Self.FK__OnlineSta__IdChu__4BAC3F29">
+      <End Role="ChucVu" EntitySet="ChucVu" />
+      <End Role="OnlineStatus" EntitySet="OnlineStatus" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OnlineSta__IdChu__4CA06362" Association="Self.FK__OnlineSta__IdChu__4CA06362">
+      <End Role="ChucVu" EntitySet="ChucVu" />
+      <End Role="OnlineStatus" EntitySet="OnlineStatus" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

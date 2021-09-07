@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="42fedd52e6e94848b87daa0100c1cea3" Name="Diagram1">
+        <EntityTypeShape EntityType="CNCProjectModel.ChucVu" Width="1.5" PointX="5.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC1" Width="1.5" PointX="3" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC2" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC3" Width="1.5" PointX="3" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC4" Width="1.5" PointX="6" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC5" Width="1.5" PointX="6" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC6" Width="1.5" PointX="6" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC7" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.EventManagerCNC8" Width="1.5" PointX="3" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.HienTrangCuaMayCNC" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.HienTrangMayCNC" Width="1.5" PointX="0.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.NhanVien" Width="1.5" PointX="8" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CNCProjectModel.OnlineStatu" Width="1.5" PointX="8" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="CNCProjectModel.FK__NhanVien__IdChuc__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__OnlineSta__IdChu__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__OnlineSta__IdChu__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="CNCProjectModel.FK__EventMana__IdHie__49C3F6B7" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
