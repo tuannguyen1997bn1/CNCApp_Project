@@ -1,0 +1,388 @@
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\BouncyCastle.Crypto.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\CNC12.exe.config
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\CNC12.exe
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\CNC12.pdb
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\EntityFramework.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\EntityFramework.SqlServer.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\EPPlus.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Google.Protobuf.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\K4os.Hash.xxHash.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\LiveCharts.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MaterialDesignColors.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MySql.Data.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Newtonsoft.Json.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\PdfSharp.Charting.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\PdfSharp.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Renci.SshNet.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Spire.License.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Spire.Pdf.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Buffers.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.ComponentModel.Annotations.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Memory.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Numerics.Vectors.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Windows.Interactivity.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Ubiety.Dns.Core.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Zstandard.Net.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Microsoft.mshtml.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\EntityFramework.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\EntityFramework.SqlServer.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\EPPlus.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Google.Protobuf.pdb
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Google.Protobuf.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\K4os.Hash.xxHash.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\LiveCharts.pdb
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\LiveCharts.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.pdb
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MaterialDesignColors.pdb
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\MySql.Data.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Newtonsoft.Json.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\PdfSharp.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\PdfSharp.Charting.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Renci.SshNet.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Spire.License.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\Spire.Pdf.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Buffers.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Memory.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Numerics.Vectors.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\System.Windows.Interactivity.xml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\de\PdfSharp.resources.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12.exe.config
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\UserControls\ControlBar.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\UserControls\LedLamp.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ChartWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ContactWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\MainWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ManagerWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ReportWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\SettingWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\WarningWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\App.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12_Content.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12_MarkupCompile.cache
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12_MarkupCompile.lref
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\App.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\ResourceXAML\MainResource.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\UserControls\ControlBar.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\UserControls\LedLamp.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ChartWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ContactWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\MainWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ManagerWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\ReportWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\SettingWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\Views\WarningWindow.baml
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12.g.resources
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12.Properties.Resources.resources
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC-Test.csproj.GenerateResource.cache
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC-Test.csproj.CoreCompileInputs.cache
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC-Test.csproj.CopyComplete
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12.exe
+E:\RAVproject\WISE4051_Project - new\new\CNC12\CNC12\obj\Debug\CNC12.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12.exe.config
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\UserControls\ControlBar.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\UserControls\LedLamp.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ChartWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ContactWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\MainWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ManagerWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ReportWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\SettingWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\WarningWindow.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\App.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12_Content.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12_MarkupCompile.cache
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12_MarkupCompile.lref
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\CNC12.exe.config
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\CNC12.exe
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\CNC12.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\BouncyCastle.Crypto.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\EntityFramework.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\EntityFramework.SqlServer.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\EPPlus.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Google.Protobuf.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\K4os.Hash.xxHash.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\LiveCharts.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MaterialDesignColors.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MySql.Data.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Newtonsoft.Json.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\PdfSharp.Charting.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\PdfSharp.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Renci.SshNet.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Spire.License.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Spire.Pdf.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Buffers.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.ComponentModel.Annotations.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Memory.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Numerics.Vectors.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Windows.Interactivity.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Ubiety.Dns.Core.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Zstandard.Net.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Microsoft.mshtml.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\EntityFramework.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\EntityFramework.SqlServer.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\EPPlus.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Google.Protobuf.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Google.Protobuf.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\K4os.Hash.xxHash.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\LiveCharts.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\LiveCharts.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MaterialDesignColors.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\MySql.Data.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Newtonsoft.Json.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\PdfSharp.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\PdfSharp.Charting.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Renci.SshNet.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Spire.License.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\Spire.Pdf.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Buffers.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Memory.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Numerics.Vectors.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\System.Windows.Interactivity.xml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\de\PdfSharp.resources.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\App.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\ResourceXAML\MainResource.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\UserControls\ControlBar.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\UserControls\LedLamp.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ChartWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ContactWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\MainWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ManagerWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\ReportWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\SettingWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\Views\WarningWindow.baml
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12.g.resources
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12.Properties.Resources.resources
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC-Test.csproj.GenerateResource.cache
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC-Test.csproj.CoreCompileInputs.cache
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC-Test.csproj.CopyComplete
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12.exe
+E:\RAVproject\WISE4051_Project - new\LastVersion-CNC\CNC12\CNC12\obj\Debug\CNC12.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\CNC12.exe.config
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\CNC12.exe
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\CNC12.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\EntityFramework.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\EPPlus.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Google.Protobuf.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\LiveCharts.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MaterialDesignColors.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MySql.Data.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\PdfSharp.Charting.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\PdfSharp.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Renci.SshNet.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Spire.License.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Spire.Pdf.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Buffers.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Memory.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Zstandard.Net.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Microsoft.mshtml.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\EntityFramework.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\EPPlus.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Google.Protobuf.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Google.Protobuf.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\LiveCharts.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\LiveCharts.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MaterialDesignColors.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\MySql.Data.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\PdfSharp.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\PdfSharp.Charting.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Renci.SshNet.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Spire.License.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\Spire.Pdf.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Buffers.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Memory.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12.exe.config
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\UserControls\ControlBar.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\UserControls\LedLamp.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ChartWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ContactWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\MainWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ManagerWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ReportWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\SettingWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\WarningWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\App.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12_Content.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12_MarkupCompile.cache
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12_MarkupCompile.lref
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\App.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\UserControls\ControlBar.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\UserControls\LedLamp.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ChartWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ContactWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\MainWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ManagerWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\ReportWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\SettingWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\Views\WarningWindow.baml
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12.g.resources
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12.Properties.Resources.resources
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC-Test.csproj.GenerateResource.cache
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC-Test.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC-Test.csproj.CopyComplete
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12.exe
+C:\Users\tuan\Desktop\RAV\CNC12\CNC12\obj\Debug\CNC12.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\CNC12.exe.config
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\CNC12.exe
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\CNC12.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\EntityFramework.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\EPPlus.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Google.Protobuf.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\LiveCharts.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MaterialDesignColors.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MySql.Data.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\PdfSharp.Charting.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\PdfSharp.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Renci.SshNet.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Spire.License.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Spire.Pdf.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Buffers.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Memory.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Zstandard.Net.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Microsoft.mshtml.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\EntityFramework.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\EPPlus.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Google.Protobuf.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Google.Protobuf.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\LiveCharts.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\LiveCharts.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MaterialDesignColors.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\MySql.Data.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\PdfSharp.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\PdfSharp.Charting.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Renci.SshNet.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Spire.License.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\Spire.Pdf.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Buffers.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Memory.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12.exe.config
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\UserControls\ControlBar.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\UserControls\LedLamp.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ChartWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ContactWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\MainWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ManagerWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ReportWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\SettingWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\WarningWindow.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\App.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12_Content.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12_MarkupCompile.cache
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12_MarkupCompile.lref
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\App.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\UserControls\ControlBar.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\UserControls\LedLamp.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ChartWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ContactWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\MainWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ManagerWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\ReportWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\SettingWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\Views\WarningWindow.baml
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12.g.resources
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12.Properties.Resources.resources
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC-Test.csproj.GenerateResource.cache
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC-Test.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC-Test.csproj.CopyComplete
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12.exe
+C:\Users\tuan\Desktop\RAV\CNCApp\CNC12\obj\Debug\CNC12.pdb

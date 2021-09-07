@@ -1,0 +1,197 @@
+﻿<Window x:Class="CNC12.Views.ContactWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CNC12.Views"
+        xmlns:ap="clr-namespace:CNC12.ViewModels"
+        xmlns:uc="clr-namespace:CNC12.UserControls"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        DataContext="{StaticResource VMContactWindow}"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        Title="CONTACT WINDOW"
+        mc:Ignorable="d"
+        Name="contactWindow"
+        Height="750" Width="900">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBar Tag="{Binding Title, ElementName=contactWindow}"></uc:ControlBar>
+        </Grid>
+
+        <Grid 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            Grid.Row="1" 
+            Margin="0 20 0 100">
+            <Label 
+                x:Name="label2" 
+                Content="VIETNAM RAV TECHNOLOGY JOINT-STOCK COMPANY" 
+                HorizontalAlignment="Center" 
+                Margin="0,22,0,0" 
+                VerticalAlignment="Top" 
+                FontSize="25" 
+                Foreground="DarkSlateBlue" 
+                FontWeight="Bold" 
+                Width="Auto"/>
+            <Label 
+                x:Name="label6" 
+                FontWeight="Bold"   
+                Content="Ngoc Hoi Industrial Area, Lien Ninh Ward, Thanh Tri District, Ha Noi"    
+                HorizontalAlignment="Center" Margin="0,99,0,0" 
+                VerticalAlignment="Top" 
+                Width="auto" FontSize="20"/>
+            
+            <Label x:Name="label6_Copy" 
+                   Content="-  Tel:" 
+                   HorizontalAlignment="Left" 
+                   Margin="150,145,0,0" VerticalAlignment="Top" 
+                   Width="auto" FontSize="20" FontWeight="Bold"/>
+            <Label x:Name="label6_Copy1" 
+                   Content="0367.311.582" 
+                   HorizontalAlignment="Left"
+                   Margin="250,145,0,0" 
+                   VerticalAlignment="Top"
+                   Width="auto" FontSize="20"/>
+            <Label x:Name="label6_Copy2" 
+                   Content="-  Email:" 
+                   HorizontalAlignment="Left" 
+                   Margin="150,190,0,0" VerticalAlignment="Top"
+                   Width="auto" FontSize="20" FontWeight="Bold"/>
+            <Label x:Name="label6_Copy3" 
+                   Content="tuannguyen1997bn@gmail.com" 
+                   HorizontalAlignment="Left" 
+                   Margin="250,190,0,0" 
+                   VerticalAlignment="Top" 
+                   Width="auto" FontSize="20"/>
+            <Label x:Name="label6_Copy4" 
+                   Content="-  Web:" 
+                   HorizontalAlignment="Left" 
+                   Margin="150,235,0,0" 
+                   VerticalAlignment="Top" 
+                   Width="auto" FontSize="20" 
+                   FontWeight="Bold"/>
+            <Label x:Name="label6_Copy5" 
+                   Content="https://www.facebook.com/tuanalikaka.nguyen/" 
+                   HorizontalAlignment="Left" Margin="250,235,0,0" 
+                   VerticalAlignment="Top" 
+                   Width="auto" FontSize="20"/>
+
+
+            <Label 
+                x:Name="label2_Copy" Content="Send request, contact information to us"                  
+                HorizontalAlignment="Left" 
+                Margin="20,301,0,0" 
+                VerticalAlignment="Top" FontSize="20" 
+                Foreground="DarkSlateBlue" 
+                FontWeight="Bold" Width="566"/>
+
+            <Label 
+                x:Name="label6_Copy8" Content="Title*" 
+                HorizontalAlignment="Left" 
+                Margin="20,336,0,0" 
+                VerticalAlignment="Top"
+                Width="auto" FontSize="20" 
+                FontWeight="Bold"/>
+            <TextBox 
+                Background="#FFCFD4F6"
+                x:Name="txt_name" 
+                HorizontalAlignment="Left" 
+                Height="30" Margin="20,371,0,0" 
+                TextWrapping="Wrap" 
+                VerticalAlignment="Top" 
+                Width="276" 
+                FontSize="15" 
+                Text="{Binding MailTitle,Mode=TwoWay}"/>
+            <Label 
+                x:Name="label6_Copy9" 
+                Content="Email*"
+                HorizontalAlignment="Left" 
+                Margin="330,336,0,0" VerticalAlignment="Top" 
+                Width="auto" FontSize="20" FontWeight="Bold"/>
+            <TextBox 
+                Background="#FFCFD4F6"
+                x:Name="txt_email1" 
+                HorizontalAlignment="Left" 
+                Height="30" Margin="330,371,0,0" 
+                TextWrapping="Wrap" 
+                VerticalAlignment="Top" 
+                Width="290" FontSize="15" 
+                Foreground="Gray" 
+                Text="{Binding MailUserName,Mode=TwoWay}"/>
+
+            <Label 
+                x:Name="label6_Copy10" Content="Content*"               
+                HorizontalAlignment="Left"
+                Margin="20,416,0,0" VerticalAlignment="Top"                    
+                Width="auto" FontSize="20" FontWeight="Bold"/>
+           
+                
+            <TextBox 
+                Background="#FFCFD4F6"
+                x:Name="txt_content" 
+                Text="{Binding MailContent}"
+                HorizontalAlignment="Left" 
+                Height="139" 
+                Margin="20,450,0,10" 
+                TextWrapping="Wrap" 
+                VerticalAlignment="Top" 
+                Width="791" 
+                FontSize="18" 
+                Foreground="Gray" 
+                VerticalScrollBarVisibility="Visible" 
+                AcceptsReturn="True"/>
+            
+            
+            <Button 
+                x:Name="btn_send" 
+                Content="Send" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Bottom" 
+                Margin="350,0,350,-90"
+                FontWeight="Bold" FontSize="20"
+                Command="{Binding MailSendCommand}"
+                CommandParameter="{Binding ElementName=contactWindow}"
+                Width="134" 
+                Height="60"       
+                Style="{DynamicResource MaterialDesignRaisedButton}"       
+                materialDesign:ShadowAssist.ShadowDepth="Depth3"/>
+
+            <Label x:Name="label6_Copy11" 
+               Content="Password*" 
+               HorizontalAlignment="Left" Margin="650,336,0,0" 
+               VerticalAlignment="Top" Width="auto" 
+               FontSize="20" FontWeight="Bold"/>
+
+            <PasswordBox 
+                Background="#FFCFD4F6"
+                x:Name="MailPassword1"
+                HorizontalAlignment="Left" 
+                Margin="650,371,0,0" 
+                VerticalAlignment="Top" 
+                Width="164" Height="30" PasswordChar="*"
+                MaxLength="20">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="PasswordChanged">
+                        <i:InvokeCommandAction 
+                        Command="{Binding PasswordMailCommand}"        
+                        CommandParameter="{Binding ElementName=MailPassword1}"/>
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </PasswordBox>
+            
+        </Grid>
+    </Grid>
+</Window>
